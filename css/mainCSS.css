@@ -1,0 +1,75 @@
+#banner{
+	text-align: center;
+}
+#upcomingEvents{
+	width:19%;
+	float:left;
+	margin-left:2%;
+	margin-top: 2%;
+	outline: solid thin;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-right:1%;
+	color:#000000;
+	background-color: #BD1550;
+}
+#upcomingEvents hr{
+	width:80%;
+}
+#exhibits{
+	width:49%;
+	margin-left: 1%;
+	padding-left:10px;
+	padding-right:10px; 
+	margin-top:2%;
+	display: inline-block;
+	border-radius: 50px;
+}
+.exhibit{
+	outline: double medium;
+	margin-bottom:2%	 ;
+	padding:10px;
+	background-color:#E97F02;
+}
+.exhibit p{
+	width:55%;
+	float:right;
+	font-size: 130%;
+
+}
+#testimonies{
+	width:18.5%;
+	float:right;
+	margin-right:2%;
+	margin-top: 2%;
+	padding-left: 1%;
+	padding-right: 1%;
+	outline: solid thin;
+	color:#000000;
+	background-color: #BD1550;
+}
+#testimonies h3{
+text-align: center;
+color:#F8CA00
+
+}
+
+#upcomingEvents .event h3{
+	font-size: 130%;
+	color: #FF8217;
+	text-align: center;
+
+}
+#eventHead{
+	color:#F8CA00
+}
+#main h3,h4{
+	font-size: 175%;
+	text-align: center;
+}
+
+#exhibits h4{
+	line-height: 0%;
+	text-align: center;
+
+}

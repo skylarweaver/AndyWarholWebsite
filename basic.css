@@ -1,0 +1,15 @@
+body{
+	color:#490A3D;
+	font-family:Verdana,Helvetica,sans-serif;
+	font-size:13px;
+	margin:0px;
+}
+
+html{
+	margin: 0px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family:Warhol Heavy;
+	src: url(fonts/WarholHeavy.ttf) format:("truetype");
+}

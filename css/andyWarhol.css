@@ -1,0 +1,77 @@
+p{
+	font-size: 115%;
+}
+#popularImage{
+	width:45%;
+	float:left;
+	margin-left:2%;
+	margin-top: 5%;
+
+}
+h3{
+	font-size: 140%;
+	text-align:center;
+}
+.subTopic{
+	font-size: 2em;
+	margin-top: 45px;
+	margin-left:25px;
+	line-height: 0%;
+	text-align: center;
+	display: inline;
+
+}
+#aboutAndy{
+	width:45%;
+	float:left;
+	margin-top: 2%;
+	margin-left: 2.5%;
+	padding-bottom: 4%;
+
+}
+
+#collegeAndy{
+	width: 45%;
+	float: left;
+	margin-left:5%; 
+	margin-right:2%;
+}
+#collegePic{
+	width: 45%;
+	float:right;
+	margin-right: 2%;
+	padding-top:2%;
+}
+.subTopic1{
+	font-size: 2em;
+	margin-left:25px;
+	padding-bottom:25px;
+	line-height: 0%;
+	display: inline;
+	text-align: center;
+}
+#secondP {
+	width: 40%;
+	float: right;
+	padding-right: 5%;
+	padding-top: 2%;
+	margin-right: 2%;
+}
+
+#container{
+	border-bottom: 10px double;
+	width: 30%;
+	margin-left: 35%;
+}
+
+#topic{
+	font-size: 1.5em;
+	margin-left:25px;
+	line-height: 0%;
+	display: inline;
+	text-align: center;
+}
+#hLinks{
+	width: 100%;
+	text-align: center;
+}
